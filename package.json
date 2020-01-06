@@ -1,0 +1,23 @@
+{
+  "name": "node_wordguess",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wordguess.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KORYF91/node_wordguess.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KORYF91/node_wordguess/issues"
+  },
+  "homepage": "https://github.com/KORYF91/node_wordguess#readme",
+  "dependencies": {
+    "inquirer": "^7.0.2"
+  }
+}
